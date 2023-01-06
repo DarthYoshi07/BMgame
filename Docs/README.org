@@ -118,35 +118,21 @@ We will provide an example day + set up:
 Mark is our current player who wants to get The REAL Life experience. Mark will now read the rules and start his journey!
 ------------------------------------------------------------------------------------------------------------------------------------
 * Example Introduction:
-Mark buys a deck of playing cards, 3 D20s, a notepad (recommended), and some regular die.
-
-Mark then grabs 2 of his 3 D20s and rolls them together.
-
-Mark rolled a 16 and 15; Mark adds these two numbers together and his sum is: 31; Now Mark doubles this sum and he gets: 62. Mark now uses this sum as his 
-
-Bitcoin total and converts the Bitcoin total to USD. Mark puts 62 as the number in the Bitcoin section and the total money owed is the USD output that he owes to the 
+- Mark buys a deck of playing cards, 3 D20s, a notepad (recommended), and some regular die.
+- Mark then grabs 2 of his 3 D20s and rolls them together.
+- Mark rolled a 16 and 15; Mark adds these two numbers together and his sum is: 31; Now Mark doubles this sum and he gets: 62. Mark now uses this sum as his Bitcoin total and converts the Bitcoin total to USD. Mark puts 62 as the number in the Bitcoin section and the total money owed is the USD output that he owes to the:
 
 *IRS: $1,255,859.60.*
 
-Mark now uses the 1 D20 that is left and he rolls a 14. 
-
-Mark triples this number to receive: 42. Mark now uses this sum as his Bitcoin total and converts the Bitcoin total to USD. 
-
-Mark puts 42 as the number in the Bitcoin section and the total money is the USD output that he owes to the Cartel: $850,743.60.
-
-Mark then writes down the Bitcoin amount and the USD amount he owes to each group. 
-
-Before Mark can finish his introduction he now has to worry about his apartment’s rent!
-
-Mark will grab 3 cards from the deck of cards and place them face down.
-
-Mark will then reveal all of the cards and calculate the total sum of each card.
-
-Mark got a: *2, 3, and a 10!*
-
-Mark’s total sum is: *15!*
-
-Mark now converts his 15 to Ethereum then USD just like how he did with Bitcoin!
+- Mark now uses the 1 D20 that is left and he rolls a 14. 
+- Mark triples this number to receive: 42. Mark now uses this sum as his Bitcoin total and converts the Bitcoin total to USD. 
+- Mark puts 42 as the number in the Bitcoin section and the total money is the USD output that he owes to the Cartel: $850,743.60.
+- Mark then writes down the Bitcoin amount and the USD amount he owes to each group. Before Mark can finish his introduction he now has to worry about his apartment’s rent!
+- Mark will grab 3 cards from the deck of cards and place them face down.
+- Mark will then reveal all of the cards and calculate the total sum of each card.
+- Mark got a: *2, 3, and a 10!*
+- Mark’s total sum is: *15!*
+- Mark now converts his 15 to Ethereum then USD just like how he did with Bitcoin!
 
 *Introduction Rent: $22,539.45.*
 
