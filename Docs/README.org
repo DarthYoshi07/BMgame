@@ -1,23 +1,23 @@
 #+TITLE: Real World The Game! :: Manual
 
-* Table of contents
-** Materials
+* Table of contents:
+** Materials:
 *** Why & how to use these materials 
-** Rules
+** Rules:
 *** Baby's First Steps
-** The Store 
+** The Store: 
 *** The Market
-** Example Introduction
+** Example Introduction:
 *** Example Day
 -----------------------------------------------------------------------------------------------
-* Materials
+* Materials:
 - A computer or phone (recommended not required)
 - 3 D20 die
 - 2 Six sided die
 - Deck of playing cards
 - A document (A google doc / or notepad with paper and pen)
 
-* Why & how to use these materials
+* Why & how to use these materials:
 You will use the computer or phone to find the conversions of the cryptocurrency to USD.
 
 The 3 D20 die will be rolled to find out how much money you owe.
