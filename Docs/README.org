@@ -23,8 +23,8 @@ you owe the cartel.
 Now that you have your total amount for each group (being the Cartel and the IRS) convert each total to USD.
 
 Use these links as to help with conversions:
-Bitcoin Converter (Bitcoin - USD)
-Ethereum Converter (Ethereum - USD)
+- Bitcoin Converter (Bitcoin - USD)
+- Ethereum Converter (Ethereum - USD)
 
 
 Example:
