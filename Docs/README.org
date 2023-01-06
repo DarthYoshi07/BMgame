@@ -4,7 +4,7 @@
 ** Materials
 *** Why & how to use these materials 
 ** Rules
-** Baby's First Steps
+*** Baby's First Steps
 ** The Store 
 *** The Market
 ** Example Introduction
