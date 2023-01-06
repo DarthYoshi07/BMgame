@@ -7,6 +7,8 @@
 
 #+TODO: Explain why and how you will use these materials
 
+* Why & how to use these materials
+
 * Rules:
 Each player starts with 3 D20s and a deck of playing cards (faced down). 
 The D20 will show how much money you owe to certain companies 
