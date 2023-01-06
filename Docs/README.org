@@ -1,7 +1,15 @@
 #+TITLE: Real World The Game! :: Manual
 
 * Table of contents
-
+** Materials
+*** Why & how to use these materials 
+** Rules
+** Baby's First Steps
+** The Store 
+*** The Market
+** Example Introduction
+*** Example Day
+-----------------------------------------------------------------------------------------------
 * Materials
 - A computer or phone (recommended not required)
 - 3 D20 die
