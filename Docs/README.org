@@ -52,7 +52,7 @@ Use these links as to help with conversions:
 
 | Dice | Roll | Sum |
 |-------+-------+---|
-| 2 D20 | 16 & 18 |  34 -> 68 | 
+| 2 D20 | 16 & 18 |  34 x 2 = 68 | 
 | 1 D20 |  9 | 27  | 
 
 
