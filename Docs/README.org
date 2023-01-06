@@ -13,6 +13,7 @@
 * Materials
 - A computer or phone (recommended not required)
 - 3 D20 die
+- 2 Six sided die
 - Deck of playing cards
 - A document (A google doc / or notepad with paper and pen)
 
@@ -20,6 +21,8 @@
 You will use the computer or phone to find the conversions of the cryptocurrency to USD.
 
 The 3 D20 die will be rolled to find out how much money you owe.
+
+The 2 six sided will determine your NTFs' prices.
 
 The deck of playing cards will be used to find your total rent.
 
@@ -134,7 +137,7 @@ We will provide an example day + set up:
 Mark is our current player who wants to get The REAL Life experience. Mark will now read the rules and start his journey!
 ------------------------------------------------------------------------------------------------------------------------------------
 * Example Introduction:
-- Mark buys a deck of playing cards, 3 D20s, a notepad (recommended), and some regular die.
+- Mark buys a deck of playing cards, 3 D20s, a notepad (recommended), and 2 regular die.
 - Mark then grabs 2 of his 3 D20s and rolls them together.
 - Mark rolled a 16 and 15; Mark adds these two numbers together and his sum is: 31; 
 - Now Mark doubles this sum and he gets: 62. Mark now uses this sum as his Bitcoin total and converts the Bitcoin total to USD.
