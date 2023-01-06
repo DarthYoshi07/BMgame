@@ -123,31 +123,32 @@ If your 1st roll is successful then you will use the 2nd roll according to the n
 If your purchase fails then no one buys your NFT and that NFT goes to waste, you CAN NOT reuse NFTs!
 
 *First Roll:*
- - 1 -> Purchase failed!
- - 2 -> Purchase failed!
- - 3 -> Purchase failed!
- - 4 -> Purchase pass!
- - 3 -> Purchase pass!
- - 4 -> Purchase pass!	
 
-| First Roll | Roll Number | Phone | Age |
-|-------+-------+------------------+-----|
-| Peter |  1234 |  17 | 17 |
-| Anna  |  4321 |  25 |
-|-------+-------+------------------+-----|
-| Second Roll | Roll Number | Phone | Age |
+(True = Purchase Passed, False = Purchase Failed)
+
+| Roll Number | Status |
+|-------+-------+------|
+| 1 | False |
+| 2 | False |
+| 3 | False |
+| 4 | True |
+| 5 | True |
+| 6 | True |
 
 The 2nd roll will determine how they will pay:
 
-
 *Second Roll:* 
 
- - 1 -> Regular Price!
- - 2 -> Regular Price!
- - 3 -> Regular Price!
- - 4 -> Regular Price!
- - 5 -> Double Price!
- - 6 -> Double Price!
+(R = Regular Price, D = Price is Doubled)
+
+| Roll Number | Status |
+|-------+-------+------|
+| 1 | R |
+| 2 | R |
+| 3 | R |
+| 4 | R |
+| 5 | D |
+| 6 | D |
 
 We will provide an example day + set up:
 Mark is our current player who wants to get The REAL Life experience. Mark will now read the rules and start his journey!
