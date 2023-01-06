@@ -48,7 +48,7 @@ Use these links as to help with conversions:
 - Ethereum Converter (Ethereum - USD)
 
 
-Example:
+*Example:*
 
 | Dice | Roll | Sum |
 |-------+-------+---|
