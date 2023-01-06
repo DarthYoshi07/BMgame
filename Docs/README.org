@@ -114,7 +114,7 @@ The 2nd roll will determine how they will pay:
 
 We will provide an example day + set up:
 Mark is our current player who wants to get The REAL Life experience. Mark will now read the rules and start his journey!
-
+------------------------------------------------------------------------------------------------------------------------------------
 * Example Introduction:
 Mark buys a deck of playing cards, 3 D20s, a notepad (recommended), and some regular die.
 Mark then grabs 2 of his 3 D20s and rolls them together.
@@ -133,7 +133,6 @@ Introduction Rent: $22,539.45.
 Mark has now finished the introduction!
 
 Now it is time for Mark to start his 1st day!
-
 ------------------------------------------------------------------------------------------------------------------------------------
 * Example Day:
 
