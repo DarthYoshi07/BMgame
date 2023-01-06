@@ -71,8 +71,12 @@ Grab 3 playing cards from a deck and place them all upside down. Now the numbers
 
 *Special Cards:*
 
-
-# DAY 4: IPad - 500 USD - Halves the NFT Production time - Only 1 in supply
+| Card | Value |
+|-------+------+|
+| Ace | 1 |
+| King | 10 |
+| Queen | 10 |
+| Jack | 10 |
 
 (Joker Cards are not used)
 
