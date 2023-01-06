@@ -142,17 +142,17 @@ Each player starts with 50$ in their bank.
 Each day starts at 07:00!
 
 
-- Mark spends _4 USD_ and buys a Red Bull which gives him a _1 day_ buff to make _5 more_ NFTs.
+- Mark spends *4 USD* and buys a Red Bull which gives him a *1 day* buff to make _5 more_ NFTs.
 
-- Mark subtracts _4 USD_ from his bank total!
+- Mark subtracts *4 USD* from his bank total!
 
-- Mark creates _4 NFTs_, spending _8 hours_ of his time in total!
+- Mark creates *4 NFTs*, spending *8 hours* of his time in total!
 
 - It is now 14:00!
 
-- Mark puts _1_ of his _4 NFTs_ on The Market.
+- Mark puts *1* of his *4 NFTs* on The Market.
 
-- The 1st NFT: *15 =Litecoin=*.
+- The 1st NFT: *15 Litecoin*.
 
 - Mark will now roll for his NFT!
 
