@@ -187,3 +187,5 @@ Each day starts at 07:00!
 - Mark then adds up the rent total.
 
 - *Rent Total:* _$61,697.27!_
+
+_UNDERLINE_
