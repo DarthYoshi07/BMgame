@@ -7,6 +7,7 @@
 *** Baby's First Steps:
 *** Rent
 ** The Store: 
+*** Rolling Charts
 *** The Market
 ** Example Introduction:
 *** Example Day
@@ -122,14 +123,24 @@ Each NFT takes 2 hours to complete production.
 The Market is where you will set up your NFTs to be sold.
 You can say that you set up an NFT for sale and state your price. 
 After that the game of luck is on your side!
+
 Pull out 2 regular dice and buckle your seat belts!
 You are going to roll a die for each NFT you have created and are going to sell on the Market.
+
 Let's say you made 5 NFTs and are going to sell 3 on the Market.
-Roll the 1st dice once and mark down the number you got, *EX Roll: 4*
-Roll the 2nd dice and mark down the number you got, *EX Roll: 1*
+Roll the 1st dice once and mark down the number you got:
+
+*EX Roll: 4*
+
+Roll the 2nd dice and mark down the number you got: 
+
+*EX Roll: 1*
+
 Your 1st roll determines whether someone is going to buy that NFT or not!
 If your 1st roll is successful then you will use the 2nd roll according to the next chart!
 If your purchase fails then no one buys your NFT and that NFT goes to waste, you CAN NOT reuse NFTs!
+
+** Rolling Charts:
 
 *First Roll:*
 
