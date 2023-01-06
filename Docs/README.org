@@ -50,10 +50,10 @@ Use these links as to help with conversions:
 
 Example:
 
-| Dice | Roll | Sum | Crypto |
-|-------+-------+-------+---|
-| IRS    |  0 |  0 | |
-| Cartel |  0 |  0 | |
+| Dice | Roll | Sum |
+|-------+-------+---|
+| 2 D20 | 16 & 18 |  34 -> 68 | 
+| 1 D20 |  9 | 27  | 
 
 
 | Group | Bitcoin | USD |
