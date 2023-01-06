@@ -80,12 +80,14 @@ Grab 3 playing cards from a deck and place them all upside down. Now the numbers
 
 (Joker Cards are not used)
 
-The sum of the 3 cards used will be the rent you have to pay for your apartment in Ethereum. Now you owe LOTS of money and you are unemployed!
+The sum of the 3 cards used will be the rent you have to pay for your apartment in Ethereum. 
+Now you owe LOTS of money and you are unemployed!
 It's time for the player to create NFTs’ to become rich and pay off their debt!
 The player will have 30 days to pay off their debt!
 The player will first have to create NFTs’ and sell them.
-The crypto you can set for your NFTs’ include: Litecoin, & Monero.
+The crypto you can set for your NFTs’ include: *Litecoin, & Monero.*
 Your turn will count as a singular day so make it count!
+
 On a sample day your options are to create NFTs, price them, sell them, and cash out your crypto, check in with your bank, buy supplies, & more!
 
 On your days you have 17 hours to create NFTs and sell them.
@@ -114,13 +116,13 @@ After that the game of luck is on your side!
 Pull out 2 regular dice and buckle your seat belts!
 You are going to roll a die for each NFT you have created and are going to sell on the Market.
 Let's say you made 5 NFTs and are going to sell 3 on the Market.
-Roll the 1st dice once and mark down the number you got, EX Roll: 4
-Roll the 2nd dice and mark down the number you got, EX Roll: 1
+Roll the 1st dice once and mark down the number you got, *EX Roll: 4*
+Roll the 2nd dice and mark down the number you got, *EX Roll: 1*
 Your 1st roll determines whether someone is going to buy that NFT or not!
 If your 1st roll is successful then you will use the 2nd roll according to the next chart!
 If your purchase fails then no one buys your NFT and that NFT goes to waste, you CAN NOT reuse NFTs!
 
-*ROLL 1:*
+*First Roll:*
  - 1 -> Purchase failed!
  - 2 -> Purchase failed!
  - 3 -> Purchase failed!
@@ -128,11 +130,17 @@ If your purchase fails then no one buys your NFT and that NFT goes to waste, you
  - 3 -> Purchase pass!
  - 4 -> Purchase pass!	
 
+| First Roll | Roll Number | Phone | Age |
+|-------+-------+------------------+-----|
+| Peter |  1234 |  17 | 17 |
+| Anna  |  4321 |  25 |
+|-------+-------+------------------+-----|
+| Second Roll | Roll Number | Phone | Age |
 
 The 2nd roll will determine how they will pay:
 
 
-*ROLL 2:* 
+*Second Roll:* 
 
  - 1 -> Regular Price!
  - 2 -> Regular Price!
