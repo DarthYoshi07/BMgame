@@ -87,13 +87,13 @@ Your 1st roll determines whether someone is going to buy that NFT or not!
 If your 1st roll is successful then you will use the 2nd roll according to the next chart!
 If your purchase fails then no one buys your NFT and that NFT goes to waste, you CAN NOT reuse NFTs!
 
-ROLL 1:
-1 - Purchase failed!
-2 - Purchase failed!
-3 - Purchase failed!
-4 - Purchase pass!
-5 -  Purchase pass!
-6 - Purchase pass!
+*ROLL 1:*
+ - 1 -> Purchase failed!
+ - 2 -> Purchase failed!
+ - 3 -> Purchase failed!
+ - 4 -> Purchase pass!
+ - 3 -> Purchase pass!
+ - 4 -> Purchase pass!
 	
 
 
