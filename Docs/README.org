@@ -130,31 +130,65 @@ Mark’s total sum is: 15!
 Mark now converts his 15 to Ethereum then USD just like how he did with Bitcoin!
 Introduction Rent: $22,539.45.
 Mark has now finished the introduction!
+
 Now it is time for Mark to start his 1st day!
-Sample Day:
+
+
+*Sample Day:
+
 Each player starts with 50$ in their bank.
+
+
 Each day starts at 07:00!
+
+
 Mark spends 4$ and buys a Red Bull which gives him a 1 day buff to make 5 more NFTs.
+
+
 Mark subtracts 4$ from his bank total!
+
+
 Mark makes 4 NFTs, spending 8 hours of his time in total!
+
+
 It is now 14:00!
+
+
 Mark puts 1 of his 4 NFTs on The Market.
 
+
 The 1st NFT: 15 Litecoin.
+
 Mark will now roll for his NFT!
+
 Mark got a 4 on his 1st roll!
+
 Mark got a 3 on his 2nd roll!
+
 Mark’s 1st NFT passed but didn’t double his price!
+
 Mark’s 1st NFT value: 15 Litecoin/818.25 USD
+
 Mark can now bank his earnings!
+
 Mark adds 818.25 USD to his bank account!
+
 Mark’s total is now 864.25 USD.
+
 Mark chooses to end his day!
+
 Mark did not pay any of his debt today!
+
 Mark now has to draw for rent again!
+
 Mark got a: 6, 10, and another 10!
+
 Mark’s total sum is: 26.
+
 (Remember that rent is in “Ethereum”)
+
 New Rent: $39,157.82!
+
 Mark then adds up the rent total.
+
 Rent Total: $61,697.27!
