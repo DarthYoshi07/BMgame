@@ -44,7 +44,7 @@ you owe the *Cartel.*
 
 Now that you have your total amount for each group (being the Cartel and the IRS) convert each total to USD.
 
-Use these links as to help with conversions:
+*These are helpful things to search up when you are playing your game:*
 - Bitcoin Converter (Bitcoin - USD)
 - Ethereum Converter (Ethereum - USD)
 
@@ -105,6 +105,8 @@ ANY DAY: Monster - 3 USD - 3 NFTs buff - Infinite
 DAY 2: Cell Phone - 150 USD - Useless item - Only 1 in supply
 
 DAY 4: IPad - 500 USD - Halves the NFT Production time - Only 1 in supply
+
+#+TODO: Make Market a Table
 
 Your daily NFT Production limit is set to 10 per day (without buffs).
 Each NFT takes 2 hours to complete production.
