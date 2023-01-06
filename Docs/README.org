@@ -177,10 +177,10 @@ Now it is time for Mark to start his 1st day!
 ------------------------------------------------------------------------------------------------------------------------------------
 * Example Day:
 
-Each player starts with 50$ in their bank.
+Each player starts with *50$* in their bank.
 
 
-Each day starts at 07:00!
+Each day starts at *07:00*!
 
 
 - Mark spends *4 USD* and buys a Red Bull which gives him a *1 day* buff to make _5 more_ NFTs.
