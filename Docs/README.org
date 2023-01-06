@@ -142,33 +142,33 @@ Each player starts with 50$ in their bank.
 Each day starts at 07:00!
 
 
-- Mark spends 4$ and buys a Red Bull which gives him a 1 day buff to make 5 more NFTs.
+- Mark spends _4 USD_ and buys a Red Bull which gives him a _1 day_ buff to make _5 more_ NFTs.
 
-- Mark subtracts 4$ from his bank total!
+- Mark subtracts _4 USD_ from his bank total!
 
-- Mark makes 4 NFTs, spending 8 hours of his time in total!
+- Mark creates _4 NFTs_, spending _8 hours_ of his time in total!
 
 - It is now 14:00!
 
-- Mark puts 1 of his 4 NFTs on The Market.
+- Mark puts _1_ of his _4 NFTs_ on The Market.
 
-- The 1st NFT: 15 Litecoin.
+- The 1st NFT: _15 *Litecoin*_.
 
 - Mark will now roll for his NFT!
 
-- Mark got a 4 on his 1st roll!
+- Mark got a _4_ on his _1st roll!_
 
-- Mark got a 3 on his 2nd roll!
+- Mark got a _3_ on his _2nd roll!_
 
 - Mark’s 1st NFT passed but didn’t double his price!
 
-- Mark’s 1st NFT value: 15 Litecoin/818.25 USD
+- Mark’s 1st NFT value: _15 Litecoin/818.25 USD_
 
 - Mark can now bank his earnings!
 
-- Mark adds 818.25 USD to his bank account!
+- Mark adds _818.25 USD_ to his bank account!
 
-- Mark’s total is now 864.25 USD.
+- Mark’s total is now _864.25 USD._
 
 - Mark chooses to end his day!
 
@@ -176,14 +176,14 @@ Each day starts at 07:00!
 
 - Mark now has to draw for rent again!
 
-- Mark got a: 6, 10, and another 10!
+- Mark got a: _6, 10,_ and another _10!_
 
-- Mark’s total sum is: 26.
+- Mark’s total sum is: _26_.
 
 (Remember that rent is in “Ethereum”)
 
-- *New Rent:* $39,157.82!
+- *New Rent:* _$39,157.82!_
 
 - Mark then adds up the rent total.
 
-- *Rent Total:* $61,697.27!
+- *Rent Total:* _$61,697.27!_
