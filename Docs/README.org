@@ -85,7 +85,7 @@ The sum of the 3 cards used will be the rent you have to pay for your apartment 
 Now you owe LOTS of money and you are unemployed!
 It's time for the player to create NFTs’ to become rich and pay off their debt!
 
-The player will have 30 days to pay off their debt!
+The player will have *30 days* to pay off their debt!
 The player will first have to create NFTs’ and sell them.
 
 The crypto you can set for your NFTs’ include: *Litecoin, & Monero.*
@@ -93,14 +93,15 @@ Your turn will count as a singular day so make it count!
 
 On a sample day your options are to create NFTs, price them, sell them, and cash out your crypto, check in with your bank, buy supplies, & more!
 
-On your days you have 17 hours to create NFTs and sell them.
+On your days you have *17 hours* to create NFTs and sell them.
 Once your first day starts you can start creating NFTs.
 
 BUT before you get carried away let's explain the core concepts!
 
 *Bank:* 
 
-The bank is where you will store money and take out money that you need. You may also use the bank to pay your rent + debt.
+The bank is where you will store money and take out money that you need. 
+You may also use the bank to pay your rent & debt.
 
 *Store:* 
 
