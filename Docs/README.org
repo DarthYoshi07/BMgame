@@ -26,7 +26,7 @@ The 3 D20 die will be rolled to find out how much money you owe.
 
 The 2 six sided will determine your NFTs' prices.
 
-The deck of playing cards will be used to find your total rent.
+The deck of playing cards will be used to accumulate your total rent.
 
 A notepad to write down and keep track of your information.
 -----------------------------------------------------------------------------------------------
