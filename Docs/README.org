@@ -64,7 +64,8 @@ Use these links as to help with conversions:
 
 #+TODO: Add org mode table as an example
 
-Write down the conversion of Bitcoin to USD of each amount of money you owe each group.
+- Write down the conversion of Bitcoin to USD of each amount of money you owe each group.
+
 You live in New York City located in Brazil and now you have to see how many NFTs you can make in 30 days. 
 Grab 3 playing cards from a deck and place them all upside down. Now the numbers on the cards are going to be added into a total sum.
 
