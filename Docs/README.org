@@ -152,23 +152,23 @@ Each day starts at 07:00!
 
 - Mark puts _1_ of his _4 NFTs_ on The Market.
 
-- The 1st NFT: _15 *Litecoin*_.
+- The 1st NFT: *15 =Litecoin=*.
 
 - Mark will now roll for his NFT!
 
-- Mark got a _4_ on his _1st roll!_
+- Mark got a *4* on his =1st roll=!
 
-- Mark got a _3_ on his _2nd roll!_
+- Mark got a *3* on his =2nd roll=!
 
 - Mark’s 1st NFT passed but didn’t double his price!
 
-- Mark’s 1st NFT value: _15 Litecoin/818.25 USD_
+- Mark’s 1st NFT value: *15 Litecoin/818.25 USD*
 
 - Mark can now bank his earnings!
 
-- Mark adds _818.25 USD_ to his bank account!
+- Mark adds *818.25 USD* to his bank account!
 
-- Mark’s total is now _864.25 USD._
+- Mark’s total is now *864.25 USD*.
 
 - Mark chooses to end his day!
 
@@ -176,16 +176,14 @@ Each day starts at 07:00!
 
 - Mark now has to draw for rent again!
 
-- Mark got a: _6, 10,_ and another _10!_
+- Mark got a: *6, 10,* and another *10!*
 
-- Mark’s total sum is: _26_.
+- Mark’s total sum is: *26*.
 
 (Remember that rent is in “Ethereum”)
 
-- *New Rent:* _$39,157.82!_
+- *New Rent: $39,157.82!*
 
 - Mark then adds up the rent total.
 
-- *Rent Total:* _$61,697.27!_
-
-__UNDERLINE__
+- *Rent Total: $61,697.27!*
