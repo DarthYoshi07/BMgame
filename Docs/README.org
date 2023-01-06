@@ -100,13 +100,15 @@ If your purchase fails then no one buys your NFT and that NFT goes to waste, you
 
 
 The 2nd roll will determine how they will pay:
-						ROLL 2:
-1 - Regular Price!
-2 - Regular Price!
-3 - Regular Price!
-4 - Regular Price!
-5 - Double Price!
-6 - Double Price!
+
+*ROLL 2:* 
+
+ - 1 -> Regular Price!
+ - 2 -> Regular Price!
+ - 3 -> Regular Price!
+ - 4 -> Regular Price!
+ - 5 -> Double Price!
+ - 6 -> Double Price!
 
 We will provide an example day + set up:
 Mark is our current player who wants to get The REAL Life experience. Mark will now read the rules and start his journey!
