@@ -156,9 +156,9 @@ Each day starts at 07:00!
 
 - Mark will now roll for his NFT!
 
-- Mark got a *4* on his =1st roll=!
+- Mark got a *4* on his *1st roll*!
 
-- Mark got a *3* on his =2nd roll=!
+- Mark got a *3* on his *2nd roll*!
 
 - Mark’s 1st NFT passed but didn’t double his price!
 
