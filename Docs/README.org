@@ -38,12 +38,19 @@ Example:
 #+TODO: Add org mode table as an example
 
 Write down the conversion of Bitcoin to USD of each amount of money you owe each group.
-You live in New York City located in Brazil and now you have to see how many NFTs you can make in 30 days. Grab 3 playing cards from a deck and place them all upside down. Now the numbers on the cards are going to be added into a total sum. The value of each special card:
+You live in New York City located in Brazil and now you have to see how many NFTs you can make in 30 days. 
+Grab 3 playing cards from a deck and place them all upside down. Now the numbers on the cards are going to be added into a total sum.
 
-Ace - 1
-King - 10
-Queen - 10
-Jack - 10
+*The value of each special card:*
+
+Ace -> 1
+
+King -> 10
+
+Queen -> 10
+
+Jack -> 10
+
 (Joker Cards are not used)
 
 The sum of the 3 cards used will be the rent you have to pay for your apartment in Ethereum. Now you owe LOTS of money and you are unemployed!
@@ -55,16 +62,13 @@ Your turn will count as a singular day so make it count!
 On a sample day your options are to create NFTs, price them, sell them, and cash out your crypto, check in with your bank, buy supplies, & more!
 
 
-
-
-
 On your days you have 17 hours to create NFTs and sell them.
 Once your first day starts you can start creating NFTs.
 BUT before you get carried away let's explain the core concepts!
 Bank: The bank is where you will store money and take out money that you need. You may also use the bank to pay your rent + debt.
 Store: The store has a limited supply of items on day 1 but expands as the days pass by, use your money wisely!
 
-Store:
+*Store:*
 Your options of buying things include:
 ANY DAY: Red Bull - 4 USD - 5 NFTs buff - Infinite
 ANY DAY: Monster - 3 USD - 3 NFTs buff - Infinite
@@ -93,13 +97,11 @@ If your purchase fails then no one buys your NFT and that NFT goes to waste, you
  - 3 -> Purchase failed!
  - 4 -> Purchase pass!
  - 3 -> Purchase pass!
- - 4 -> Purchase pass!
-	
-
-
+ - 4 -> Purchase pass!	
 
 
 The 2nd roll will determine how they will pay:
+
 
 *ROLL 2:* 
 
@@ -156,4 +158,3 @@ Mark’s total sum is: 26.
 New Rent: $39,157.82!
 Mark then adds up the rent total.
 Rent Total: $61,697.27!
-
