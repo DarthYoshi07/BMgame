@@ -71,11 +71,6 @@ Grab 3 playing cards from a deck and place them all upside down. Now the numbers
 
 *Special Cards:*
 
-| Day Unlocked  | Item Name | Price | Benefit | Supply |
-|-------+-------+-----|-----+|------+|--------+|-------+|
-| ANY DAY | Red Bull  | 4 USD  | 5 NFTs Buff | Infinite |
-| ANY DAY | Monster  | 3 USD  | 3 NFTs Buff | Infinite |
-| DAY 2 | Cell Phone  | 150 USD  | Useless Item | Only 1 in supply |
 
 # DAY 4: IPad - 500 USD - Halves the NFT Production time - Only 1 in supply
 
@@ -98,16 +93,16 @@ Store: The store has a limited supply of items on day 1 but expands as the days 
 * The Store:
 Your options of buying things include:
 
-ANY DAY: Red Bull - 4 USD - 5 NFTs buff - Infinite
+| Day Unlocked  | Item Name | Price | Benefit | Supply |
+|-------+-------+-----|-----+|------+|--------+|-------+|
+| ANY DAY | Red Bull  | 4 USD  | 5 NFTs Buff | Infinite |
+| ANY DAY | Monster  | 3 USD  | 3 NFTs Buff | Infinite |
+| DAY 2 | Cell Phone  | 150 USD  | Useless Item | Only 1 in supply |
 
-ANY DAY: Monster - 3 USD - 3 NFTs buff - Infinite
-
-DAY 2: Cell Phone - 150 USD - Useless item - Only 1 in supply
-
-DAY 4: IPad - 500 USD - Halves the NFT Production time - Only 1 in supply
+# DAY 4: IPad - 500 USD - Halves the NFT Production time - Only 1 in supply
 
 #+TODO: Make Market a Table
-
+# DAY 4: IPad - 500 USD - Halves the NFT Production time - Only 1 in supply
 Your daily NFT Production limit is set to 10 per day (without buffs).
 Each NFT takes 2 hours to complete production.
 
