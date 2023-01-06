@@ -1,4 +1,5 @@
-Materials:
+#+TITLE: Game Name Title Manual
+* Materials:
 A computer or phone (recommended not required)
 3 D20 die
 Deck of playing cards
@@ -6,12 +7,12 @@ A document (A google doc / or notepad with paper and pen)
 
 #+TODO: Explain why and how you will use these materials
 
-Rules:
+*Rules:
 Each player starts with 3 D20s and a deck of playing cards (faced down). 
 The D20 will show how much money you owe to certain companies 
 and people which you will have to pay off whilst trying to become rich.
 
-Baby’s First Steps:
+*Baby’s First Steps:
 Grab 2 of the 3 D20s you start off with, roll 2 D20s and calculate the total sum. 
 Double the current calculated sum. 
 Convert that number to Bitcoin, and that is the total amount you owe to the IRS. 
