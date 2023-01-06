@@ -1,1 +1,156 @@
+Materials:
+A computer or phone (recommended not required)
+3 D20 die
+Deck of playing cards
+A document (A google doc / or notepad with paper and pen)
+
+#+TODO: Explain why and how you will use these materials
+
+Rules:
+Each player starts with 3 D20s and a deck of playing cards (faced down). 
+The D20 will show how much money you owe to certain companies 
+and people which you will have to pay off whilst trying to become rich.
+
+Baby’s First Steps:
+Grab 2 of the 3 D20s you start off with, roll 2 D20s and calculate the total sum. 
+Double the current calculated sum. 
+Convert that number to Bitcoin, and that is the total amount you owe to the IRS. 
+Now roll the last D20 that is left. 
+Triple the number you rolled, convert that number to Bitcoin that is the total amount 
+you owe the cartel. 
+
+Now that you have your total amount for each group (being the Cartel and the IRS) convert each total to USD.
+
+Use these links as to help with conversions:
+Bitcoin Converter (Bitcoin - USD)
+Ethereum Converter (Ethereum - USD)
+
+
+Example:
+
+| Group | Bitcoin | USD |
+|-------+-------+-----|
+| IRS    |  0 |  0 |
+| Cartel |  0 |  0 |
+
+
+#+TODO: Add org mode table as an example
+
+Write down the conversion of Bitcoin to USD of each amount of money you owe each group.
+You live in New York City located in Brazil and now you have to see how many NFTs you can make in 30 days. Grab 3 playing cards from a deck and place them all upside down. Now the numbers on the cards are going to be added into a total sum. The value of each special card:
+
+Ace - 1
+King - 10
+Queen - 10
+Jack - 10
+(Joker Cards are not used)
+
+The sum of the 3 cards used will be the rent you have to pay for your apartment in Ethereum. Now you owe LOTS of money and you are unemployed!
+It's time for the player to create NFTs’ to become rich and pay off their debt!
+The player will have 30 days to pay off their debt!
+The player will first have to create NFTs’ and sell them.
+The crypto you can set for your NFTs’ include: Litecoin, & Monero.
+Your turn will count as a singular day so make it count!
+On a sample day your options are to create NFTs, price them, sell them, and cash out your crypto, check in with your bank, buy supplies, & more!
+
+
+
+
+
+On your days you have 17 hours to create NFTs and sell them.
+Once your first day starts you can start creating NFTs.
+BUT before you get carried away let's explain the core concepts!
+Bank: The bank is where you will store money and take out money that you need. You may also use the bank to pay your rent + debt.
+Store: The store has a limited supply of items on day 1 but expands as the days pass by, use your money wisely!
+
+Store:
+Your options of buying things include:
+ANY DAY: Red Bull - 4 USD - 5 NFTs buff - Infinite
+ANY DAY: Monster - 3 USD - 3 NFTs buff - Infinite
+DAY 2: Cell Phone - 150 USD - Useless item - Only 1 in supply
+DAY 4: IPad - 500 USD - Halves the NFT Production time - Only 1 in supply
+
+Your daily NFT Production limit is set to 10 per day (without buffs).
+Each NFT takes 2 hours to complete production.
+
+The Market:
+The Market is where you will set up your NFTs to be sold.
+You can say that you set up an NFT for sale and state your price. 
+After that the game of luck is on your side!
+Pull out 2 regular dice and buckle your seat belts!
+You are going to roll a die for each NFT you have created and are going to sell on the Market.
+Let's say you made 5 NFTs and are going to sell 3 on the Market.
+Roll the 1st dice once and mark down the number you got, EX Roll: 4
+Roll the 2nd dice and mark down the number you got, EX Roll: 1
+Your 1st roll determines whether someone is going to buy that NFT or not!
+If your 1st roll is successful then you will use the 2nd roll according to the next chart!
+If your purchase fails then no one buys your NFT and that NFT goes to waste, you CAN NOT reuse NFTs!
+
+ROLL 1:
+1 - Purchase failed!
+2 - Purchase failed!
+3 - Purchase failed!
+4 - Purchase pass!
+5 -  Purchase pass!
+6 - Purchase pass!
+	
+
+
+
+
+The 2nd roll will determine how they will pay:
+						ROLL 2:
+1 - Regular Price!
+2 - Regular Price!
+3 - Regular Price!
+4 - Regular Price!
+5 - Double Price!
+6 - Double Price!
+
+We will provide an example day + set up:
+Mark is our current player who wants to get The REAL Life experience. Mark will now read the rules and start his journey!
+
+Sample Introduction + Day:
+Mark buys a deck of playing cards, 3 D20s, a notepad (recommended), and some regular die.
+Mark then grabs 2 of his 3 D20s and rolls them together.
+Mark rolled a 16 and 15; Mark adds these two numbers together and his sum is: 31; Now Mark doubles this sum and he gets: 62. Mark now uses this sum as his Bitcoin total and converts the Bitcoin total to USD. Mark puts 62 as the number in the Bitcoin section and the total money owed is the USD output that he owes to the 
+IRS: $1,255,859.60.
+Mark now uses the 1 D20 that is left and he rolls a 14. Mark triples this number to receive: 42. Mark now uses this sum as his Bitcoin total and converts the Bitcoin total to USD. Mark puts 42 as the number in the Bitcoin section and the total money is the USD output that he owes to the Cartel: $850,743.60.
+Mark then writes down the Bitcoin amount and the USD amount he owes to each group.
+Before Mark can finish his introduction he now has to worry about his apartment’s rent!
+Mark will grab 3 cards from the deck of cards and place them face down.
+Mark will then reveal all of the cards and calculate the total sum of each card.
+Mark got a: 2, 3, and a 10!
+Mark’s total sum is: 15!
+Mark now converts his 15 to Ethereum then USD just like how he did with Bitcoin!
+Introduction Rent: $22,539.45.
+Mark has now finished the introduction!
+Now it is time for Mark to start his 1st day!
+Sample Day:
+Each player starts with 50$ in their bank.
+Each day starts at 07:00!
+Mark spends 4$ and buys a Red Bull which gives him a 1 day buff to make 5 more NFTs.
+Mark subtracts 4$ from his bank total!
+Mark makes 4 NFTs, spending 8 hours of his time in total!
+It is now 14:00!
+Mark puts 1 of his 4 NFTs on The Market.
+
+The 1st NFT: 15 Litecoin.
+Mark will now roll for his NFT!
+Mark got a 4 on his 1st roll!
+Mark got a 3 on his 2nd roll!
+Mark’s 1st NFT passed but didn’t double his price!
+Mark’s 1st NFT value: 15 Litecoin/818.25 USD
+Mark can now bank his earnings!
+Mark adds 818.25 USD to his bank account!
+Mark’s total is now 864.25 USD.
+Mark chooses to end his day!
+Mark did not pay any of his debt today!
+Mark now has to draw for rent again!
+Mark got a: 6, 10, and another 10!
+Mark’s total sum is: 26.
+(Remember that rent is in “Ethereum”)
+New Rent: $39,157.82!
+Mark then adds up the rent total.
+Rent Total: $61,697.27!
 
