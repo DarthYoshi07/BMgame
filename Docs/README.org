@@ -1,11 +1,9 @@
-#+TITLE: Real World The Game! ; Manual
+#+TITLE: Real World The Game! :: Manual
 * Materials:
 - A computer or phone (recommended not required)
 - 3 D20 die
 - Deck of playing cards
 - A document (A google doc / or notepad with paper and pen)
-
-#+TODO: Explain why and how you will use these materials
 
 * Why & how to use these materials
 
