@@ -188,4 +188,4 @@ Each day starts at 07:00!
 
 - *Rent Total:* _$61,697.27!_
 
-_UNDERLINE_
+__UNDERLINE__
