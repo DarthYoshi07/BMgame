@@ -7,7 +7,7 @@
 *** Baby's First Steps:
 *** Rent
 ** The Store: 
-*** The Market
+*** The Market:
 **** Rolling Charts
 ** Example Introduction:
 *** Example Day
