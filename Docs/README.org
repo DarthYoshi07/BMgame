@@ -68,7 +68,7 @@ Now that you have your total amount for each group (being the Cartel and the IRS
 You live in New York City located in Brazil and now you have to see how many NFTs you can make in 30 days. 
 -----------------------------------------------------------------------------------------------
 ** Rent
-Grab 3 playing cards from a deck and place them all upside down. Now the numbers on the cards are going to be added into a total sum.
+Shuffle the deck of playing cards, remove the "Joker" card & grab 3 of the playing cards from the deck and place them all upside down. Now the numbers on the  top right & left of the cards are going to be added into a total sum.
 
 *Special Cards:*
 
