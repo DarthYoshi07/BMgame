@@ -91,9 +91,13 @@ Store: The store has a limited supply of items on day 1 but expands as the days 
 
 * The Store:
 Your options of buying things include:
+
 ANY DAY: Red Bull - 4 USD - 5 NFTs buff - Infinite
+
 ANY DAY: Monster - 3 USD - 3 NFTs buff - Infinite
+
 DAY 2: Cell Phone - 150 USD - Useless item - Only 1 in supply
+
 DAY 4: IPad - 500 USD - Halves the NFT Production time - Only 1 in supply
 
 Your daily NFT Production limit is set to 10 per day (without buffs).
