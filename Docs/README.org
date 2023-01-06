@@ -1,4 +1,7 @@
 #+TITLE: Real World The Game! :: Manual
+
+* Table of contents
+
 * Materials
 - A computer or phone (recommended not required)
 - 3 D20 die
