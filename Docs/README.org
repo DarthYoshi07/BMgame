@@ -176,7 +176,7 @@ Each day starts at 07:00!
 
 - Mark now has to draw for rent again!
 
-- Mark got a: *6, 10,* and another *10!*
+- Mark got a: *6,* *10,* and another *10!*
 
 - Mark’s total sum is: *26*.
 
