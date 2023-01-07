@@ -1,0 +1,3 @@
+#+TITLE: Buisness & Marketing CLI Game
+
+Small Terminal Game written in C
