@@ -21,7 +21,7 @@ There are a couple of things that are going to be explained for the player's kno
 - Player Limit
 The player limit has no fixed size, well sort of...
 
-This game is intended to not have a player limit, as shows the way this game is structured. Now the most common way you can play this game is by
+This game is intended to not have a player limit, as shows the way this game is structured. The most common way you can play this game is by
 playing it by yourself. However is not against the rules nor impossible to add more players to the game. 
 Lets say you are playing in a party of four. The main objective is to pay off your debt, whichever player pays off their debt first wins!
 # -
