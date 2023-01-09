@@ -16,7 +16,7 @@
 * An Introduction 
 In "Real World The Game" you experience the game of a lifetime.
 There are a couple of things that are going to be explained for the player's knowledge.
-#
+
 # - The Game
 - Player Limit
 The player limit has no fixed size, well sort of...
