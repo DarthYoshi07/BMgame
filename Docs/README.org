@@ -30,17 +30,17 @@ Lets say you are playing in a party of four. The main objective is to pay off yo
 -----------------------------------------------------------------------------------------------
 * Materials:
 - A computer or phone (recommended not required)
-- 3 D20 die
-- 2 Six sided die
+- 3 D20 die (or a singular one)
+- 2 Six sided die (or a singular one)
 - Deck of playing cards
 - A document (A google doc / or notepad with paper and pen)
 
 ** Why & how to use these materials:
 You will use the computer or phone to find the conversions of the required cryptocurrencies to USD.
 
-The 3 D20 die will be rolled to find out how much money you owe.
+The 3 D20 die will be rolled to find out how much money you owe. (If you only have 1 die you can just reuse the same dice.)
 
-The 2 six sided will determine your NFTs' prices.
+The 2 six sided will determine your NFTs' prices. (If you only have 1 die you can just reuse the same dice.)
 
 The deck of playing cards will be used to accumulate your total rent.
 
