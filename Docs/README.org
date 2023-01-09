@@ -27,7 +27,7 @@ Lets say you are playing in a party of four. The main objective is to pay off yo
 # -
 # -
 # -
-
+-----------------------------------------------------------------------------------------------
 * Materials:
 - A computer or phone (recommended not required)
 - 3 D20 die
