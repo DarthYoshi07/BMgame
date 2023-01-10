@@ -8,7 +8,7 @@
 ** Materials:
 *** Why & how to use these materials 
 ** Rules:
-*** Baby's First Steps:
+*** The Setup:
 *** Rent
 ** The Store: 
 *** The Market:
@@ -34,8 +34,27 @@ As explained in the setting, the main purpose of the game is to sell NFTs to pay
 In total 3, (IRS, Cartel, rent) once you define the amount of money owed each group, you start a new day to pay the debt off.
 
 *Side Note:* 
-The IRS & the Cartel have a set limit and cannot increase in its total, but rent is different. 
-Your rent's total accumulates higher at the end of each day.
+The IRS & the Cartel have an immutable total, so once you set the price it cannot increase. Rent is different. 
+Your rent's total accumulates higher at the end of each day. More detial about rent in the "Rent" section from "The Setup".
+
+*Cryptocurrency?*
+
+Cryptocurrency (crypto for short) is a currency just like the American Dollar (USD). Cryptocurrencies are a bit different from your average currencies though.
+The main differences you need to know before playing this game is that there are different types of crypto that have a different vaule in the conversion to
+USD.
+
+*Example:*
+| Crypto Type | Crypto Number | Crypto's Value in USD |
+|-------+-------+---|
+| Bitcoin | 1 | 17,221.10 | 
+| Ethereum | 1 | 1,326.84 |
+| Litecoin | 1 | 81.33 | 
+| Monero | 1 | 159.29 |
+
+Date Recorded: 1/9/23
+
+*Side Note:*
+Crypto is constantly changing in value so the value of each coin changes daily!
 
 *** Player Limit:
 The player limit has no fixed size, well sort of...
@@ -43,9 +62,6 @@ The player limit has no fixed size, well sort of...
 This game is intended to not have a player limit, as shows the way this game is structured. The most common way you can play this game is by
 playing it by yourself. However is not against the rules nor impossible to add more players to the game. 
 Lets say you are playing in a party of four. The main objective is to pay off your debt, whichever player pays off their debt first wins!
-# -
-# -
-# -
 -----------------------------------------------------------------------------------------------
 * Materials:
 - A computer or phone (recommended not required)
@@ -70,7 +86,7 @@ Each player starts with 3 D20s and a deck of playing cards (faced down).
 The D20 will show how much money you owe to certain companies 
 and people which you will have to pay off whilst trying to become rich.
 
-** Baby’s First Steps:
+** The Setup:
 Grab 2 of the 3 D20s you start off with, roll 2 D20s and calculate the total sum. 
 Double the current calculated sum. 
 Convert that number to Bitcoin, and that is the total amount you owe to the *IRS.* 
@@ -116,7 +132,7 @@ Shuffle the deck of playing cards, remove the "Joker" card & grab 3 of the playi
 
 (Joker Cards are not used)
 
-The sum of the 3 cards used will be the rent you have to pay for your apartment in Ethereum. 
+The sum of the 3 cards used, will be the rent you have to pay for your apartment in Ethereum. 
 Now you owe LOTS of money and you are unemployed!
 It's time for the player to create NFTs’ to become rich and pay off their debt!
 
