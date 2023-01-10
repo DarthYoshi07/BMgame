@@ -2,8 +2,8 @@
 
 * Table of contents:
 ** An introduction:
-*** The Game:
 **** Setting
+*** The Game:
 **** Player Limit
 ** Materials:
 *** Why & how to use these materials 
@@ -20,14 +20,14 @@
 In "Real World The Game" you experience the game of a lifetime.
 There are a couple of things that are going to be explained for the player's knowledge.
 
+*** Setting
+You are broke person in New York City (located in Brazil) who owes lots of money to different groups. You will pay off this money by selling 
+NFTs (digital images sold by using crypto as its currency) to clients.
+
 ** The Game
 This game may seem confusing and difficult at first, but this documentation tries to help with that.
 
 TEXT
-
-*** Setting
-You are broke person in New York City (located in Brazil) who owes lots of money to different groups. You will pay off this money by selling 
-NFTs (digital images sold by using crypto as its currency) to clients.
 
 *** Player Limit
 The player limit has no fixed size, well sort of...
