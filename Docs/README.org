@@ -108,7 +108,7 @@ Now that you have your total amount for each group (being the Cartel and the IRS
 
 *Example:*
 
-| Dice | Number(s) Rolled | Total |
+| Die | Number(s) Rolled | Total |
 |-------+-------+---|
 | 2 D20s | 16 & 18 |  34 x 2 = 68 | 
 | 1 D20 |  9 | 27  | 
