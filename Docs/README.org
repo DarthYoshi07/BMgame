@@ -125,7 +125,8 @@ Now that you have your total amount for each group (being the Cartel and the IRS
 You live in New York City located in Brazil, you are in lots of debt & now you have to see how many NFTs you can create & sell in 30 days. 
 -----------------------------------------------------------------------------------------------
 ** Rent
-Shuffle the deck of playing cards, remove the "Joker" card & grab 3 of the playing cards from the deck and place them all upside down. Now the numbers on the  top right & left of the cards are going to be added into a total sum.
+Remove the "Joker" card from the deck of playing cards, shuffle the deck, & grab 3 of the playing cards from the deck. Place those 3 cards upside down.
+Now the numbers on the top right & left of the cards are going to be added into a total sum.
 
 *Special Cards:*
 
@@ -138,15 +139,15 @@ Shuffle the deck of playing cards, remove the "Joker" card & grab 3 of the playi
 
 (Joker Cards are not used)
 
-The sum of the 3 cards used, will be the rent you have to pay for your apartment in Ethereum. 
+The sum of the 3 cards used, will be the rent you have to pay for your apartment in *Ethereum*. 
 Now you owe LOTS of money and you are unemployed!
 It's time for the player to create NFTs’ to become rich and pay off their debt!
 
 The player will have *30 days* to pay off their debt!
 The player will first have to create NFTs’ and sell them.
 
-The crypto you can set for your NFTs’ include: *Litecoin, & Monero.*
-Your turn will count as a singular day so make it count!
+The crypto you can set for your NFTs’ to sell include: *Litecoin, & Monero.*
+Each turn will count as a singular day so make it count!
 
 On a sample day your options are to create NFTs, price them, sell them, and cash out your crypto, check in with your bank, buy supplies, & more!
 
