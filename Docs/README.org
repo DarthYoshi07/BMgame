@@ -189,11 +189,11 @@ You are going to roll a die for each NFT you have created and are going to sell 
 Let's say you made 5 NFTs and are going to sell 3 on the Market.
 Roll the 1st dice once and mark down the number you got:
 
-*EX Roll: 4*
+*Example Roll: 4*
 
 Roll the 2nd dice and mark down the number you got: 
 
-*EX Roll: 1*
+*Example Roll: 1*
 
 Your 1st roll determines whether someone is going to buy that NFT or not!
 If your 1st roll is successful then you will use the 2nd roll according to the next chart!
