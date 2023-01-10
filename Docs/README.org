@@ -111,6 +111,7 @@ Now that you have your total amount for each group (being the Cartel and the IRS
 | 2 D20 | 16 & 18 |  34 x 2 = 68 | 
 | 1 D20 |  9 | 27  | 
 
+
 | Group | Bitcoin | USD |
 |-------+-------+-----|
 | IRS    | 68 |  1,151,083.60 |
