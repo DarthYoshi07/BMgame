@@ -1,12 +1,10 @@
 #+TITLE: Real World The Game! :: Manual
-
 * Table of contents:
 ** An introduction:
 *** Setting:
 **** The Game
-**** Player Limit
 ** Materials:
-*** Why & how to use these materials 
+*** Why & How To Use These Materials In Game 
 ** Rules:
 *** The Setup:
 *** Rent
@@ -25,13 +23,13 @@ You are broke person in New York City (located in Brazil) who owes lots of money
 NFTs (digital images sold by using crypto as its currency) to clients.
 
 *** The Game:
-This game may seem confusing and difficult at first, but this documentation tries to help with that.
+This game may seem confusing and difficult at first, but this documentation tries its best to help clear that up.
 
 As explained in the setting, the main purpose of the game is to sell NFTs to pay off your debts.
 
 *How Many Debts Do I Have To Pay?*
 
-In total 3, (IRS, Cartel, rent) once you define the amount of money owed each group, you start a new day to pay the debt off.
+In total 3, (IRS, Cartel, Rent) once you define the amount of money owed each group, you start a new day to pay the debt off.
 
 *Side Note:* 
 The IRS & the Cartel have an immutable total, so once you set the price it cannot increase. Rent is different. 
@@ -56,10 +54,10 @@ Date Recorded: 1/9/23
 *Side Note:*
 Crypto is constantly changing in value so the value of each coin changes daily!
 
-*Why Use Crypto?*
+*Why Use Crypto In Game?*
 
-The reason the game uses crypto is because the thing called an "NFT" is a digital image that people can buy using said cryptos to gain ownership of said image.
-You the player will be creating these images (Named: NFT), to gain money to pay off your debt.
+The reason the game uses crypto is because the thing called an "NFT", which is a digital image that people can buy using said cryptos
+to gain ownership of said image. You the player will be creating these images (Named: NFT), to gain money to pay off your debt.
 
 *Player Limit:*
 
@@ -76,7 +74,7 @@ Lets say you are playing in a party of four. The main objective is to pay off yo
 - Deck of playing cards
 - A document (A google doc / or notepad with paper and pen)
 
-** Why & how to use these materials:
+** Why & How To Use These Materials In Game:
 You will use the computer or phone to find the conversions of the required cryptocurrencies to USD.
 
 The 3 D20 die will be rolled to find out how much money you owe. (If you only have 1 die you can just reuse the same dice.)
@@ -106,14 +104,12 @@ Now that you have your total amount for each group (being the Cartel and the IRS
 - Bitcoin Converter (Bitcoin - USD)
 - Ethereum Converter (Ethereum - USD)
 
-
 *Example:*
 
 | Dice | Roll | Sum |
 |-------+-------+---|
 | 2 D20 | 16 & 18 |  34 x 2 = 68 | 
 | 1 D20 |  9 | 27  | 
-
 
 | Group | Bitcoin | USD |
 |-------+-------+-----|
