@@ -56,7 +56,13 @@ Date Recorded: 1/9/23
 *Side Note:*
 Crypto is constantly changing in value so the value of each coin changes daily!
 
-*** Player Limit:
+*Why Use Crypto?*
+
+The reason the game uses crypto is because the thing called an "NFT" is a digital image that people can buy using said cryptos to gain ownership of said image.
+You the player will be creating these images (Named: NFT), to gain money to pay off your debt.
+
+*Player Limit:*
+
 The player limit has no fixed size, well sort of...
 
 This game is intended to not have a player limit, as shows the way this game is structured. The most common way you can play this game is by
