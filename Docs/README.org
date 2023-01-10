@@ -1,7 +1,7 @@
 #+TITLE: Real World The Game! :: Manual
 
 * Table of contents:
-# ** An introduction
+** An introduction
 ** Materials:
 *** Why & how to use these materials 
 ** Rules:
@@ -17,8 +17,15 @@
 In "Real World The Game" you experience the game of a lifetime.
 There are a couple of things that are going to be explained for the player's knowledge.
 
-- *The Game*
-- *Player Limit*
+** The Game
+This game may seem confusing and difficult at first, but this documentation tries to help with that.
+
+TEXT
+
+*** Setting
+You are broke person in New York City (located in Brazil) who owes lots of money to different groups. You will pay off this money by selling 
+NFTs (digital images sold by using crypto as its currency) to clients.
+** Player Limit
 The player limit has no fixed size, well sort of...
 
 This game is intended to not have a player limit, as shows the way this game is structured. The most common way you can play this game is by
