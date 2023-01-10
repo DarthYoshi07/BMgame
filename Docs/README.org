@@ -20,7 +20,7 @@ There are a couple of things that are going to be explained for the player's kno
 
 ** Setting:
 You are broke person in New York City (located in Brazil) who owes lots of money to different groups. You will pay off this money by selling 
-NFTs (digital images sold by using crypto as its currency) to clients.
+NFTs (digital images sold by using crypto as its currency) to clients. You have 30 days (17 hours each day), to pay off your debt.
 
 *** The Game:
 This game may seem confusing and difficult at first, but this documentation tries its best to help clear that up.
@@ -96,7 +96,8 @@ Grab 2 of the 3 D20s you have, roll those 2 D20s and calculate the total sum of 
 Convert the sum to *Bitcoin*, and that is the total amount you owe to the *IRS.* (Highly recommended to write this down and keep track of it) 
 
 Now roll the last D20 that is left. 
-*Triple* the number you rolled, convert that number to *Bitcoin* that is the total amount you owe the *Cartel.* 
+*Triple* the number you rolled, convert that number to *Bitcoin* that is the total amount you owe the *Cartel.*
+(Highly recommended to write this down and keep track of it)
 
 Now that you have your total amount for each group (being the Cartel and the IRS) convert each total to USD.
 
@@ -119,9 +120,9 @@ Now that you have your total amount for each group (being the Cartel and the IRS
 | IRS    | 68 |  1,151,083.60 |
 | Cartel | 27 |  457,047.90 |
 
-- Write down the conversion of Bitcoin to USD of each amount of money you owe each group.
+- Write down the conversion of Bitcoin to USD for the IRS & the Cartel.
 
-You live in New York City located in Brazil and now you have to see how many NFTs you can make in 30 days. 
+You live in New York City located in Brazil, you are in lots of debt & now you have to see how many NFTs you can create & sell in 30 days. 
 -----------------------------------------------------------------------------------------------
 ** Rent
 Shuffle the deck of playing cards, remove the "Joker" card & grab 3 of the playing cards from the deck and place them all upside down. Now the numbers on the  top right & left of the cards are going to be added into a total sum.
