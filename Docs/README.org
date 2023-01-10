@@ -120,7 +120,7 @@ Now that you have your total amount for each group (being the Cartel and the IRS
 | IRS    | 68 |  1,151,083.60 |
 | Cartel | 27 |  457,047.90 |
 
-- Write down the conversion of Bitcoin to USD for the IRS & the Cartel.
+- Write down the conversion of Bitcoin to USD for the IRS & the Cartel in a document.
 
 You live in New York City located in Brazil, you are in lots of debt & now you have to see how many NFTs you can create & sell in 30 days. 
 -----------------------------------------------------------------------------------------------
