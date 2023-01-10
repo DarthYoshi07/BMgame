@@ -25,7 +25,7 @@ TEXT
 *** Setting
 You are broke person in New York City (located in Brazil) who owes lots of money to different groups. You will pay off this money by selling 
 NFTs (digital images sold by using crypto as its currency) to clients.
-** Player Limit
+*** Player Limit
 The player limit has no fixed size, well sort of...
 
 This game is intended to not have a player limit, as shows the way this game is structured. The most common way you can play this game is by
