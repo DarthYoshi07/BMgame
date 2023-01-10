@@ -27,7 +27,15 @@ NFTs (digital images sold by using crypto as its currency) to clients.
 *** The Game:
 This game may seem confusing and difficult at first, but this documentation tries to help with that.
 
-TEXT
+As explained in the setting, the main purpose of the game is to sell NFTs to pay off your debts.
+
+*How Many Debts Do I Have To Pay?*
+
+In total 3, (IRS, Cartel, rent) once you define the amount of money owed each group, you start a new day to pay the debt off.
+
+*Side Note:* 
+The IRS & the Cartel have a set limit and cannot increase in its total, but rent is different. 
+Your rent's total accumulates higher at the end of each day.
 
 *** Player Limit:
 The player limit has no fixed size, well sort of...
